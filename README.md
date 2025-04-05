@@ -124,4 +124,4 @@ Many collectors and gamers spend valuable time manually checking prices and eval
 
 ## Preview
 
-*add later*
+![image](https://github.com/user-attachments/assets/a0903367-aa6d-4a32-bf8c-3697c70e947a)
