@@ -12,6 +12,8 @@ set_names = {
         "OP09": "emperors-in-the-new-world",
         "OP10": "royal-blood",
         "OP11": "a-fist-of-divine-speed",
+        "OP12": "legacy-of-the-master",
+        "OP13": "carrying-on-his-will",
         "EB01": "extra-booster-memorial-collection",
         "EB02": "premium-booster-the-best",
         "ST01": "starter-deck-1-straw-hat-crew",
